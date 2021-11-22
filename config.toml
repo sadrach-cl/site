@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://sadrach.site"
+baseURL = "https://sadrach.site/"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
