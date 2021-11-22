@@ -180,18 +180,18 @@ link = "#"
 
 ################################ English Language ########################
 [Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
+languageName = "Es"
+languageCode = "es-Cl"
+contentDir = "content/cl"
 weight = 1
-home = "Home"
+home = "Inicio"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
 ################################ France Language ########################
 [Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+languageName = "En"
+languageCode = "en-En"
+contentDir = "content/english"
 weight = 2
-home = "Accueil"
+home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
