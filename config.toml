@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://sadrach.site/"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "es"
 # language code
@@ -69,7 +69,7 @@ enableEmoji = true
     # modern SVG favicon to use in place of older style .png and .ico files
     svgFavicon = ""
     # Android browser theme color
-    themeColor = "#ffffff"
+    themeColor = "#15121C"
     # Safari mask icon color
     iconColor = "#5bbad5"
     # Windows v8-10 tile color
