@@ -10,11 +10,11 @@ $global-font-weight: 400;
 $global-line-height: 1.5rem;
 
 // Color of the background
-$global-background-color: #D7DAE0 !default;
+$global-background-color: #575268 !default;
 $global-background-color-dark: #15121C !default;
 
 // Color of the text
-$global-font-color: #15121C !default;
+$global-font-color: #D7DAE0 !default;
 $global-font-color-dark: #D7DAE0 !default;
 
 // Color of the secondary text
@@ -22,15 +22,15 @@ $global-font-secondary-color: #6E6C7C !default;
 $global-font-secondary-color-dark: #6E6C7C !default;
 
 // Color of the link
-$global-link-color: #161209 !default;
+$global-link-color: #A4B9EF !default;
 $global-link-color-dark: #A4B9EF !default;
 
 // Color of the hover link
-$global-link-hover-color: #2d96bd !default;
+$global-link-hover-color: #ECBFBD !default;
 $global-link-hover-color-dark: #ECBFBD !default;
 
 // Color of the border
-$global-border-color: #f0f0f0 !default;
+$global-border-color: #D7DAE0 !default;
 $global-border-color-dark: #332E41 !default;
 // ========== Global ========== //
 
@@ -44,7 +44,7 @@ $scrollbar-hover-color: #B1E3AD !default;
 
 // ========== Selection ========== //
 // Color of the selected text
-$selection-color: rgba(53, 166, 247, 0.25) !default;
+$selection-color: rgba(218, 218, 232, 0.85) !default;
 $selection-color-dark: rgba(195, 186, 198, 0.4) !default;
 // ========== Selection ========== //
 
@@ -53,7 +53,7 @@ $selection-color-dark: rgba(195, 186, 198, 0.4) !default;
 $header-height: 3.5rem !default;
 
 // Color of the header background
-$header-background-color: #f8f8f8 !default;
+$header-background-color: #575268 !default;
 $header-background-color-dark: #1B1923 !default;
 
 // Font style of the header title
@@ -65,7 +65,7 @@ $header-hover-color: #161209 !default;
 $header-hover-color-dark: #D7DAE0 !default;
 
 // Color of the search background
-$search-background-color: #e9e9e9 !default;
+$search-background-color: #575268 !default;
 $search-background-color-dark: #1B1923 !default;
 // ========== Header ========== //
 
@@ -75,33 +75,33 @@ $toc-title-font-size: 1.2rem !default;
 $toc-content-font-size: 1rem !default;
 
 // Color of the single link
-$single-link-color: #2d96bd !default;
+$single-link-color: #A4B9EF !default;
 $single-link-color-dark: #A4B9EF !default;
 
 // Color of the hover single link
-$single-link-hover-color: #ef3982 !default;
+$single-link-hover-color: #ECBFBD !default;
 $single-link-hover-color-dark: #ECBFBD !default;
 
 // Color of the table background
-$table-background-color: #fff !default;
+$table-background-color: #6E6C7E !default;
 $table-background-color-dark: #6E6C7E !default;
 
 // Color of the table thead
-$table-thead-color: #ededed !default;
+$table-thead-color: #C3BAC6 !default;
 $table-thead-color-dark: #C3BAC6 !default;
 
 // Color of the blockquote
-$blockquote-color: #6bd6fd !default;
+$blockquote-color: #C6AAE8 !default;
 $blockquote-color-dark: #C6AAE8 !default;
 // ========== Single Content ========== //
 
 // ========== Pagination ========== //
 // Color of the link in pagination
-$pagination-link-color: #2d96bd !default;
+$pagination-link-color: #C6AAE8 !default;
 $pagination-link-color-dark: #C6AAE8 !default;
 
 // Color of the hover link in pagination
-$pagination-link-hover-color: #000 !default;
+$pagination-link-hover-color: #EBDDAA !default;
 $pagination-link-hover-color-dark: #EBDDAA !default;
 // ========== Pagination ========== //
 
@@ -111,10 +111,10 @@ $code-color: #E38C8F !default;
 $code-color-dark: #EBDDAA !default;
 
 // Color of the code background
-$code-background-color: #f5f5f5 !default;
+$code-background-color: #332E41 !default;
 $code-background-color-dark: #332E41 !default;
 
-$code-info-color: #9c9c9c !default;
+$code-info-color: #C3BAC6 !default;
 $code-info-color-dark: #C3BAC6 !default;
 
 // Font size of the code
