@@ -11,6 +11,15 @@
                     hreflang="es"
                     href="https://sadrach.site/01/"
                     /></url><url>
+            <loc>https://sadrach.site/tags/personal/</loc><lastmod>2021-12-27T17:55:05-03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://sadrach.site/en/tags/personal/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="es"
+                    href="https://sadrach.site/tags/personal/"
+                    /></url><url>
             <loc>https://sadrach.site/posts/</loc><lastmod>2021-12-27T17:55:05-03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -29,6 +38,15 @@
                     hreflang="es"
                     href="https://sadrach.site/"
                     /></url><url>
+            <loc>https://sadrach.site/tags/</loc><lastmod>2021-12-27T17:55:05-03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://sadrach.site/en/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="es"
+                    href="https://sadrach.site/tags/"
+                    /></url><url>
             <loc>https://sadrach.site/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -41,13 +59,4 @@
             <loc>https://sadrach.site/english/</loc><lastmod>2021-12-27T17:55:05-03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://sadrach.site/espanol/</loc><lastmod>2021-12-27T17:55:05-03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://sadrach.site/english/author/sadrach/</loc><lastmod>2021-12-27T17:55:05-03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://sadrach.site/espanol/autor/sadrach/</loc><lastmod>2021-12-27T17:55:05-03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://sadrach.site/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://sadrach.site/en/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="es"
-                    href="https://sadrach.site/tags/"
-                    /></url></urlset>
+            <loc>https://sadrach.site/espanol/autor/sadrach/</loc><lastmod>2021-12-27T17:55:05-03:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>

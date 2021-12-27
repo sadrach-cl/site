@@ -1,15 +1,20 @@
 ---
 title: "sadrach"
-image: ""
+image: "https://www.sadrach.site/images/avatar.jpg"
 email: "email2@example.org"
+twemoji: "true"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"
   - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://twitter.com/sadrach"
   - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://github.com/sadrach-cl/"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+![sadrach](https://www.sadrach.site/images/avatar.jpg)
+
+Si, sadrach es mi nombre real.
+vivo en Santiago, Chile. 
+No soy programador tampoco diseñador. Soy un entusiasta de la tecnologia,
+por eso sé un poco de diseño, programacion y electronica... un momento, si tengo titulo de tecnico electronico!
