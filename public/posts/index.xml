@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Todo Artículos - Sadrach</title>
-        <link>http://example.org/posts/</link>
+        <link>https://sadrach.site/posts/</link>
         <description>Todo Artículos | Sadrach</description>
-        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Mon, 22 Nov 2021 18:55:13 -0300</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>es</language><lastBuildDate>Mon, 22 Nov 2021 18:55:13 -0300</lastBuildDate><atom:link href="https://sadrach.site/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Iniciando</title>
-    <link>http://example.org/01/</link>
+    <link>https://sadrach.site/01/</link>
     <pubDate>Mon, 22 Nov 2021 18:55:13 -0300</pubDate>
     <author>Autor</author>
-    <guid>http://example.org/01/</guid>
+    <guid>https://sadrach.site/01/</guid>
     <description><![CDATA[Iniciando
 Excepteur aliquip ullamco ullamco commodo incididunt nisi minim minim labore voluptate nisi incididunt sint exercitation. Laboris irure amet tempor tempor sint eiusmod dolore nisi ea labore. Aliquip excepteur veniam ad do eu mollit ea est ad ad adipisicing proident sit. Aute fugiat eu aliquip nulla eu anim sint eu eu. Proident sint anim ut proident ex eu cupidatat cupidatat veniam excepteur tempor.
 Amet irure dolor minim non velit exercitation. Nostrud ex ullamco do duis.]]></description>
